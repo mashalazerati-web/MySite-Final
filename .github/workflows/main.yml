@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # اینجا به گیت‌هاب می‌گوییم فایل‌های بیلد شده را از کدام پوشه بردارد
-          path: './docs' 
+          path: '.' 
 
       - name: Deploy to GitHub Pages
         id: deployment
