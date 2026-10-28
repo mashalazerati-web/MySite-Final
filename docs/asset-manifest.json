@@ -1,18 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.df67f9ed.css",
-    "main.js": "./static/js/main.fad3fa5b.js",
-    "static/media/Vazirmatn-Medium.woff2": "./static/media/Vazirmatn-Medium.bc7d8f11b2c39fd0a880.woff2",
-    "static/media/Vazirmatn-Bold.woff2": "./static/media/Vazirmatn-Bold.0d6a47ce8c185a9436b2.woff2",
-    "static/media/Vazirmatn-Regular.woff2": "./static/media/Vazirmatn-Regular.58c84f666915410c0ba8.woff2",
-    "static/media/Vazirmatn-Black.woff2": "./static/media/Vazirmatn-Black.aa14df29ec50d5e9c2c9.woff2",
-    "static/media/Yekan.woff2": "./static/media/Yekan.1613331811dbcb7394f0.woff2",
+    "main.js": "./static/js/main.655fcb44.js",
     "index.html": "./index.html",
-    "main.df67f9ed.css.map": "./static/css/main.df67f9ed.css.map",
-    "main.fad3fa5b.js.map": "./static/js/main.fad3fa5b.js.map"
+    "main.655fcb44.js.map": "./static/js/main.655fcb44.js.map"
   },
   "entrypoints": [
-    "static/css/main.df67f9ed.css",
-    "static/js/main.fad3fa5b.js"
+    "static/js/main.655fcb44.js"
   ]
 }
